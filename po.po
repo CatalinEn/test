@@ -11,7 +11,7 @@ msgstr ""
 #: /app/modules/views
 #, fuzzy
 msgid "12423453"
-msgstr "TODO List"
+msgstr "TODO Lists"
 
 #: /app/modules/views
 #, fuzzy
