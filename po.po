@@ -11,17 +11,17 @@ msgstr ""
 #. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
 msgid "StaffLogin"
-msgstr ""
+msgstr "Employee login"
 
 #. Typename des NFC-Chip/QR-Code / Type name of the NFC chip/QR code
 #. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
 msgid "TimeTracking"
-msgstr ""
+msgstr "Time tracking"
 
 #. Unbekannter Typename des NFC-Chip/QR-Code / Unknown type name of the NFC chip/QR code
 #. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
