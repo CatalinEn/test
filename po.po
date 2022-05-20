@@ -4,64 +4,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: test\n"
-"Language: en\n"
+"Project-Id-Version: pro test\n"
+"Language: da\n"
 
-#. Please don't change the name of the application
-#: /app/modules/views/main:5
-msgctxt "file.ext"
-msgid "app"
-msgstr "TODO List"
-
-#: /app/modules/views/main:67
-msgctxt "file.ext"
-msgid "form.text"
-msgstr "Enter your credentials below to login"
-
-#: /app/modules/views/main:68
-msgctxt "file.ext"
-msgid "forgot.pass.label"
-msgstr "I forgot my password"
-
-#: /app/modules/views/main:69
-msgctxt "file.ext"
-msgid "terms"
-msgstr "Terms and conditions"
-
+#. Typename des NFC-Chip/QR-Code / Type name of the NFC chip/QR code
+#. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
-msgctxt "file.ext"
-msgid "form.alert.success"
-msgstr "Login successful !\n"
-"Welcome back %s !"
+msgid "StaffLogin"
+msgstr "Employee login"
 
+#. Typename des NFC-Chip/QR-Code / Type name of the NFC chip/QR code
+#. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
-msgctxt "file.ext"
-msgid "form.alert.error"
-msgstr "Make sure you've entered the correct username and password"
+msgid "TimeTracking"
+msgstr "Time tracking"
 
+#. Unbekannter Typename des NFC-Chip/QR-Code / Unknown type name of the NFC chip/QR code
+#. TAG/RESOURCES/TAGNAMERESOURCE.RESX
 #: 
-msgctxt "file.ext"
-msgid "signup.alert.success"
-msgstr "Thank you for signing up !\n"
-"Please check your email address to activate your account."
-
-#: 
-msgctxt "file.ext"
-msgid "signup.alert.error"
-msgstr "We were unable to sign you up.\n"
-"Please correct the marked fields."
-
-#: 
-msgctxt "file.ext"
-msgid "form.recover.text"
-msgstr "Enter your address in the field below. A new password will be sent to your inbox."
-
-#: 
-msgctxt "file.ext"
-msgid "signup.text"
-msgstr "Sign up for free! No credit card required!"
-
-#: 
-msgid "test"
-msgstr ""
+msgid "Unknown"
+msgstr "Unknown"
 
